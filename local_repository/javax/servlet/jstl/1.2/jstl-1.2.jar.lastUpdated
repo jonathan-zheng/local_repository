@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Nov 04 13:46:18 CST 2016
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact javax.servlet\:jstl\:jar\:1.2 from/to maven (http\://repo1.maven.org/maven2)\: The operation was cancelled.
+http\://code.alibabatech.com/mvn/snapshots/.error=Could not transfer artifact javax.servlet\:jstl\:jar\:1.2 from/to alibaba-opensource-snapshot (http\://code.alibabatech.com/mvn/snapshots/)\: The operation was cancelled.
+http\://code.alibabatech.com/mvn/releases/.error=Could not transfer artifact javax.servlet\:jstl\:jar\:1.2 from/to alibaba-opensource (http\://code.alibabatech.com/mvn/releases/)\: The operation was cancelled.
+@default-maven-http\://repo1.maven.org/maven2/.lastUpdated=1478238378275
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1478238378350
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.servlet\:jstl\:jar\:1.2 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+@default-alibaba-opensource-http\://code.alibabatech.com/mvn/releases/.lastUpdated=1478238378314
+@default-alibaba-opensource-snapshot-http\://code.alibabatech.com/mvn/snapshots/.lastUpdated=1478238378333
