@@ -1,10 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Nov 04 13:46:17 CST 2016
-http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.aspectj\:aspectjweaver\:pom\:1.7.1 from/to maven (http\://repo1.maven.org/maven2)\: The operation was cancelled.
-http\://code.alibabatech.com/mvn/snapshots/.error=Could not transfer artifact org.aspectj\:aspectjweaver\:pom\:1.7.1 from/to alibaba-opensource-snapshot (http\://code.alibabatech.com/mvn/snapshots/)\: The operation was cancelled.
-http\://code.alibabatech.com/mvn/releases/.error=Could not transfer artifact org.aspectj\:aspectjweaver\:pom\:1.7.1 from/to alibaba-opensource (http\://code.alibabatech.com/mvn/releases/)\: The operation was cancelled.
-@default-maven-http\://repo1.maven.org/maven2/.lastUpdated=1478238377691
-@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1478238377706
-https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.aspectj\:aspectjweaver\:pom\:1.7.1 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
-@default-alibaba-opensource-http\://code.alibabatech.com/mvn/releases/.lastUpdated=1478238377702
-@default-alibaba-opensource-snapshot-http\://code.alibabatech.com/mvn/snapshots/.lastUpdated=1478238377704
+#Wed Nov 09 10:54:11 CST 2016
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.aspectj\:aspectjweaver\:pom\:1.7.1 from/to maven (http\://repo1.maven.org/maven2)\: connect timed out
+http\://code.alibabatech.com/mvn/snapshots/.error=Could not transfer artifact org.aspectj\:aspectjweaver\:pom\:1.7.1 from/to alibaba-opensource-snapshot (http\://code.alibabatech.com/mvn/snapshots/)\: Connection refused\: connect
+http\://code.alibabatech.com/mvn/releases/.error=Could not transfer artifact org.aspectj\:aspectjweaver\:pom\:1.7.1 from/to alibaba-opensource (http\://code.alibabatech.com/mvn/releases/)\: Connection refused\: connect
+https\://repo.maven.apache.org/maven2/.lastUpdated=1478660051705
+@default-maven-http\://repo1.maven.org/maven2/.lastUpdated=1478659853248
+@default-alibaba-opensource-http\://code.alibabatech.com/mvn/releases/.lastUpdated=1478659854441
+@default-alibaba-opensource-snapshot-http\://code.alibabatech.com/mvn/snapshots/.lastUpdated=1478659855588

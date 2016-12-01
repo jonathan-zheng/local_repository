@@ -1,10 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Nov 04 13:46:17 CST 2016
-http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.springframework\:spring-expression\:pom\:3.2.0.RELEASE from/to maven (http\://repo1.maven.org/maven2)\: The operation was cancelled.
+#Thu Nov 17 11:04:12 CST 2016
 http\://code.alibabatech.com/mvn/snapshots/.error=Could not transfer artifact org.springframework\:spring-expression\:pom\:3.2.0.RELEASE from/to alibaba-opensource-snapshot (http\://code.alibabatech.com/mvn/snapshots/)\: The operation was cancelled.
 http\://code.alibabatech.com/mvn/releases/.error=Could not transfer artifact org.springframework\:spring-expression\:pom\:3.2.0.RELEASE from/to alibaba-opensource (http\://code.alibabatech.com/mvn/releases/)\: The operation was cancelled.
-@default-maven-http\://repo1.maven.org/maven2/.lastUpdated=1478238377804
+http\://repo1.maven.org/maven2/.lastUpdated=1479351852729
 @default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1478238377807
-https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-expression\:pom\:3.2.0.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
-@default-alibaba-opensource-http\://code.alibabatech.com/mvn/releases/.lastUpdated=1478238377805
 @default-alibaba-opensource-snapshot-http\://code.alibabatech.com/mvn/snapshots/.lastUpdated=1478238377806
+@default-alibaba-opensource-http\://code.alibabatech.com/mvn/releases/.lastUpdated=1478238377805
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-expression\:pom\:3.2.0.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
